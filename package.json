@@ -1,0 +1,25 @@
+{
+  "name": "bbdb-server",
+  "description": "A small REST service for manipulating Emacs BBDB record",
+  "keywords": [
+    "pim",
+    "emacs",
+    "bbdb"
+  ],
+  "license": "MIT",
+  "author": "drivet",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:drivet/bbdb-server.git"
+  },
+  "engines": {
+    "node": ">=4.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
